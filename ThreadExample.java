@@ -1,4 +1,4 @@
-
+//To Create five threads and print "Hello All" using Thread class
 public class ThreadExample extends Thread{
     @Override
     public void run() {

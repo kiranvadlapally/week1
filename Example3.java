@@ -13,6 +13,6 @@ public class Example3 {
         obj.add(9);
         obj.add(1);
         obj.add(3);
-        System.out.println("Set is "+obj);
+        System.out.println("Set is "+obj + "Stores only unique elements i.e duplicates not repeated");
     }
 }

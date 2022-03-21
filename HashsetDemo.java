@@ -2,7 +2,7 @@
 import java.util.HashSet;
 public class HashsetDemo {
     public static void main(String[] args) {
-        HashSet<Integer> obj=new HashSet<Integer>();
+        HashSet<Integer> obj=new HashSet<>();
         obj.add(5);
         obj.add(4);
         obj.add(9);
